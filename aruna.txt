@@ -1,0 +1,5 @@
+#!/bin/bash
+
+#welcome visual studio
+
+echo "this is devops practice"
